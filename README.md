@@ -22,4 +22,3 @@ Meer informatie kan je hier vinden:
 Meer informatie kan je hier vinden
 *  Detailpagina autorisatie: https://github.com/digipolisantwerpdocumentation/autorisatie/blob/master/README.md
 
-## TODO
