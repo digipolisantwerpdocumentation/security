@@ -10,7 +10,7 @@ Applicaties kunnen de OAuth2 authorizatie server gebruiken om A/M-profielen te l
 Meer informatie kan je hier vinden: 
 * A-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/A-Profiel_(burger)
 * M-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/M-Profiel_(medewerker)
-* https://github.com/digipolisantwerpdocumentation/authentication/blob/master/README.md
+* Authenticatie met OAuth2 : https://github.com/digipolisantwerpdocumentation/authentication/blob/master/README.md
 
 ## Autorisatie
 
