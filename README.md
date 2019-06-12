@@ -4,6 +4,7 @@ Een algemeen overzicht van de security concepten en componenten kan je hier vind
 
 ## Identiteit
 
+We onderscheiden grofweg 2 profielen, respectievelijk voor burgers en medewerkers:
 
 * A-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/A-Profiel_(burger)
 * M-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/M-Profiel_(medewerker)
