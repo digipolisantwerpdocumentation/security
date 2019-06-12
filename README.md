@@ -2,6 +2,12 @@
 
 Een algemeen overzicht van de security concepten en componenten kan je hier vinden : https://wiki.antwerpen.be/ACPAAS/index.php/Identity_%26_Access_Management 
 
+## ACPaaS Identity & Access Engine
+
+De Identity & Access Engine faciliteert als centrale bouwsteen in het ACPaaS Platform de toegang van gebruikers tot een applicatie:
+* Introductie : https://acpaas.digipolis.be/nl/product/identity-access-engine
+* Detailpagina : https://wiki.antwerpen.be/ACPAAS/index.php/Identity_%26_Access_Management/Identity_%26_Access_Engine
+
 ## Identiteit
 
 We onderscheiden grofweg 2 profielen, respectievelijk voor burgers en medewerkers:
