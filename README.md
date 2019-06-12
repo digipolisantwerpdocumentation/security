@@ -9,7 +9,7 @@ We onderscheiden grofweg 2 profielen, respectievelijk voor burgers en medewerker
 * A-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/A-Profiel_(burger)
 * M-profiel : https://wiki.antwerpen.be/ACPAAS/index.php/M-Profiel_(medewerker)
 
-Registratie van een applicatie, eindgebruikers en gekoppelde rollen:
+* Registratie van een applicatie, eindgebruikers en gekoppelde rollen via UME:
 https://wiki.antwerpen.be/ACPAAS/index.php/Identity_%26_Access_Management/User_Management_Engine
 
 
