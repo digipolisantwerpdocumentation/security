@@ -1,6 +1,6 @@
 # Security
 
-Een algemeen overzicht van de security concepten en componenten kan je hier vinden : https://wiki.antwerpen.be/ACPAAS/index.php/Identity_%26_Access_Management 
+Een algemeen overzicht van de security concepten en componenten kan je hier vinden : [IAM](https://wiki.antwerpen.be/ACPAAS/index.php/Identity_%26_Access_Management)
 
 ## ACPaaS Identity & Access Engine
 
