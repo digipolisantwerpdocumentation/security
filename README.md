@@ -24,10 +24,10 @@ We onderscheiden grofweg 2 profielen, respectievelijk voor burgers en medewerker
 Applicaties kunnen de OAuth2 authorizatie server gebruiken om A/M-profielen te laten authenticeren(authorization_code). Daarnaast ondersteunen we ook de mogelijkheid om applicaties te authenticeren(client_credentials). 
 
 Meer informatie kan je hier vinden: 
-* Detailpagina authenticatie met OAuth2 : https://github.com/digipolisantwerpdocumentation/authentication/blob/master/README.md
+* Detailpagina [authenticatie met OAuth2](https://github.com/digipolisantwerpdocumentation/authentication/blob/master/README.md)
 
 ## Autorisatie
 
 Meer informatie kan je hier vinden
-*  Detailpagina autorisatie: https://github.com/digipolisantwerpdocumentation/autorisatie/blob/master/README.md
+*  Detailpagina [autorisatie met UME en APIs](https://github.com/digipolisantwerpdocumentation/autorisatie/blob/master/README.md)
 
